@@ -178,3 +178,9 @@ position: relative;
     padding-bottom: 100px;
   }
 }
+
+@media(max-width:390px) {
+  .navbar-brand{
+    font-size: 28px !important;
+  } 
+}
