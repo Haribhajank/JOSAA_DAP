@@ -33,9 +33,15 @@ Overall, this project strives to provide students with a valuable resource to su
 ## Screenshots
 
 ### Landing Page
-![Screenshot (105)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/56de4da1-53d7-4ff8-abb7-91b030f55cb3) &nbsp; 
+![Screenshot (105)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/56de4da1-53d7-4ff8-abb7-91b030f55cb3) &nbsp;
+&nbsp; 
+&nbsp; 
 ![Screenshot (106)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/1aa9bc7d-592a-4f8e-ac18-4c8a237e9684) &nbsp; 
+&nbsp; 
+&nbsp; 
 ![Screenshot (114)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/29512416-cc24-4dd6-93a0-8d91796e1bbf) &nbsp; 
+&nbsp; 
+&nbsp;
 
 
 
