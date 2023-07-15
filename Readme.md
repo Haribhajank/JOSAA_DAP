@@ -24,8 +24,8 @@ Overall, this project strives to provide students with a valuable resource to su
 ## Features
 
 - [OR-CR Trend Analysis](#trend-analysis)
-- Rank wise College Suggestion
-- Interest wise (preffered branch) College Suggestion
+- [Rank wise College Suggestion](#rank-wise-college-suggestion)
+- [Interest wise (preffered branch) College Suggestion](#interest-wise-college-suggestion)
 
 
 
@@ -93,7 +93,7 @@ Analyse Opening Rank - Closing Rank trend for past 7- Years &nbsp;
 <br/>
 
 
-### Rank Wise College Suggestion
+### Rank-Wise-College-Suggestion
 ![Screenshot (114)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/27711496-c46b-4db5-9bd4-3ac104a4ac1a)
 Enter Details (Enter Rank as your Category Rank). &nbsp; 
 <br/>
@@ -115,7 +115,7 @@ Top 10 Suggestion based on the entered details. &nbsp;
 <br/>
 <br/>
 
-### Interest Wise College Suggestion
+### Interest-Wise-College-Suggestion
 ![Screenshot (116)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/292f7e4a-239b-4261-b422-65fab7a0276e)
 Enter Details (Enter Rank as your Category Rank).&nbsp;
 <br/>
