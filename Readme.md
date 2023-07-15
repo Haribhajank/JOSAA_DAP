@@ -23,7 +23,7 @@ Overall, this project strives to provide students with a valuable resource to su
 
 ## Features
 
-- OR-CR Trend Analysis
+- [OR-CR Trend Analysis](#trendanalysis)
 - Rank wise College Suggestion
 - Interest wise (preffered branch) College Suggestion
 
