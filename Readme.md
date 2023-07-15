@@ -23,7 +23,7 @@ Overall, this project strives to provide students with a valuable resource to su
 
 ## Features
 
-- [OR-CR Trend Analysis](#trendanalysis)
+- [OR-CR Trend Analysis](#trend-analysis)
 - Rank wise College Suggestion
 - Interest wise (preffered branch) College Suggestion
 
@@ -52,7 +52,7 @@ Overall, this project strives to provide students with a valuable resource to su
 
 
 
-### Trend Analysis
+### Trend-Analysis
 ![Screenshot (107)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/24143033-7e47-4608-98fc-ea58b2c12b6b) 
 Select College &nbsp; 
 <br/>
