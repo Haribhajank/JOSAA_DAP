@@ -27,7 +27,6 @@ Overall, this project strives to provide students with a valuable resource to su
 - Rank wise College Suggestion
 - Interest wise (preffered branch) College Suggestion
 
-## Usage
 
 
 ## Screenshots
@@ -44,6 +43,7 @@ Overall, this project strives to provide students with a valuable resource to su
 <br/>
 <br/>
 <br/>
+
 ![Screenshot (114)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/29512416-cc24-4dd6-93a0-8d91796e1bbf) &nbsp; 
 <br/>
 <br/>
