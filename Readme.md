@@ -133,9 +133,3 @@ Available IITs based on your interested branch .&nbsp;
 
 
 
-
-<!-- Add more screenshots as necessary -->
-
-## Contributing
-
-## License
