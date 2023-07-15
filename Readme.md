@@ -33,41 +33,42 @@ Overall, this project strives to provide students with a valuable resource to su
 ## Screenshots
 
 ### Landing Page
-![Screenshot (105)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/56de4da1-53d7-4ff8-abb7-91b030f55cb3)
-![Screenshot (106)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/1aa9bc7d-592a-4f8e-ac18-4c8a237e9684)
-![Screenshot (114)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/29512416-cc24-4dd6-93a0-8d91796e1bbf)
+![Screenshot (105)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/56de4da1-53d7-4ff8-abb7-91b030f55cb3) &nbsp; &nbsp;
+![Screenshot (106)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/1aa9bc7d-592a-4f8e-ac18-4c8a237e9684) &nbsp; &nbsp;
+![Screenshot (114)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/29512416-cc24-4dd6-93a0-8d91796e1bbf) &nbsp; &nbsp;
 
 
 
 ### Trend Analysis
 ![Screenshot (107)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/24143033-7e47-4608-98fc-ea58b2c12b6b) 
-Select College
+Select College &nbsp; &nbsp;
 
 ![Screenshot (108)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/ed8b7f5f-fcff-4315-845e-df93974611a1)
-Select Branch
+Select Branch &nbsp; &nbsp;
 
 ![Screenshot (109)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/49be5f28-8dd8-4047-9303-619055584643)
-Select Category 
+Select Category &nbsp; &nbsp;
 
 ![Screenshot (110)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/3eb1fcaa-553d-4a2f-bf9b-cf537de64e26)
-Select Gender
+Select Gender &nbsp; &nbsp;
 
 ![Screenshot (112)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/48c2a7a1-d116-4dd9-827b-fa00f25141a0)
-Analyse Opening Rank - Closing Rank trend for past 7- Years
+Analyse Opening Rank - Closing Rank trend for past 7- Years &nbsp; &nbsp; &nbsp; &nbsp;
 
 
 ### Rank Wise College Suggestion
 ![Screenshot (114)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/27711496-c46b-4db5-9bd4-3ac104a4ac1a)
-Enter Details (Enter Rank as your Category Rank).
+Enter Details (Enter Rank as your Category Rank). &nbsp; &nbsp;
 ![Screenshot (115)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/18399470-afb4-44e1-8c3d-01329349f911)
-Top 10 Suggestion based on the entered details.
+Top 10 Suggestion based on the entered details. &nbsp; &nbsp; 
+&nbsp; &nbsp;&nbsp; &nbsp;
 
 ### Interest Wise College Suggestion
 ![Screenshot (116)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/292f7e4a-239b-4261-b422-65fab7a0276e)
-Enter Details (Enter Rank as your Category Rank).
+Enter Details (Enter Rank as your Category Rank).&nbsp; &nbsp;
 
 ![Screenshot (117)](https://github.com/Haribhajank/JOSAA_DAP/assets/106884012/f9629c51-5771-480c-921a-f3c7196bf6c2)
-Available IITs based on your interested branch .
+Available IITs based on your interested branch .&nbsp; &nbsp;
 
 
 
